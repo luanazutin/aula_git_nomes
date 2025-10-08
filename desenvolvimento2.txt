@@ -1,1 +1,3 @@
-criando código
+=======
+estou desenvolvendo um código, "alteração aqui"
+>>>>>>> desenvolvimento

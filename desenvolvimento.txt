@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Estou desenvolvendo um código 
+=======
+
